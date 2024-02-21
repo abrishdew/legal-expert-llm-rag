@@ -1,0 +1,10 @@
+langchain
+pip install --upgrade setuptools wheel
+pip install python-dotenv
+ipykernel
+dotenv
+docarray
+pandas==1.1.5
+scikit_learn==0.24.0
+seaborn==0.11.1
+plotly==5.1.0
